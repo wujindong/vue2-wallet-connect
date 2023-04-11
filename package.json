@@ -1,6 +1,6 @@
 {
   "name": "jd-wallet-connect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WalletConnect",
   "main": "./dist/vue2-wallet-connect.js",
   "module": "./dist/vue2-wallet-connect.js",
