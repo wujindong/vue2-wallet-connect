@@ -1,6 +1,6 @@
 {
   "name": "jd-wallet-connect",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "WalletConnect",
   "main": "./dist/vue2-wallet-connect.js",
   "module": "./dist/vue2-wallet-connect.js",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:wujindong/vue2-wallet-connect.git"
   },
   "keywords": [
     "vue",
