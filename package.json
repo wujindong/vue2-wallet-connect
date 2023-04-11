@@ -1,0 +1,32 @@
+{
+  "name": "jd-wallet-connect",
+  "version": "1.0.0",
+  "description": "WalletConnect",
+  "main": "./dist/vue2-wallet-connect.js",
+  "module": "./dist/vue2-wallet-connect.js",
+  "dependencies": {
+    "@babel/core": "^7.15.5",
+    "@walletconnect/client": "1.7.8",
+    "@walletconnect/qrcode-modal": "1.7.8",
+    "vue": "^2.6.14",
+    "webpack": "^5.52.0",
+    "webpack-cli": "^4.8.0"
+  },
+  "devDependencies": {
+    "vue-loader": "^15.9.8",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "vue",
+    "vue2"
+  ],
+  "author": "Jin Dong",
+  "license": "ISC"
+}
